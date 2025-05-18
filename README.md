@@ -15,26 +15,31 @@ Durante **180 días consecutivos**, estudiaré y practicaré al menos **4 horas 
 
 ## 🧭 Contenido por bloques
 
-| Fase | Días        | Objetivo principal                                     |
-|------|-------------|--------------------------------------------------------|
-| 🔹 Fase 1 | Días 1–30   | HTML, CSS, JavaScript base + lógica + primeros componentes |
-| 🔸 Fase 2 | Días 31–90  | React: hooks, manejo de estado, proyectos reales    |
-| ⚫ Fase 3 | Días 91–150 | Next.js completo + API routes + autenticación       |
-| 🟣 Fase 4 | Días 151–180| Testing + portafolio + preparación para entrevistas |
+| Fase      | Días         | Objetivo principal                                     |
+|-----------|--------------|--------------------------------------------------------|
+| 🔹 Fase 1 | Días 1–30    | HTML, CSS, JavaScript base + lógica + primeros componentes |
+| 🔸 Fase 2 | Días 31–90   | React: hooks, manejo de estado, proyectos reales    |
+| ⚫ Fase 3 | Días 91–150  | Next.js completo + API routes + autenticación       |
+| 🟣 Fase 4 | Días 151–180 | Testing + portafolio + preparación para entrevistas |
 
 ---
 
 ## 📅 Progreso
 
-- Día actual: **`día-00`**
-- Total completado: **`0 / 180`** días
-- Progreso: ![Progreso](https://progress-bar.dev/1/?scale=180&title=avance&width=300)
+- Día actual: **`día-02`**  
+- Total completado: **`2 / 180`** días  
 
-Cada día tiene su propia carpeta con: 
+**Progreso visual:**  
+[▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1.1%
+
+
+*(Barra de progreso simple en texto, actualizable manualmente según el día)*
+
+Cada día tiene su propia carpeta con:  
 dia-XX/
 ├── notes.md ← Apuntes del día, links, ideas
 ├── reto-logico.js ← Algoritmo o desafío de código
-├── mini-proyecto/ ← Práctica o ejercicio técnico
+└── mini-proyecto/ ← Práctica o ejercicio técnico
 
 
 ---
@@ -62,6 +67,4 @@ Al llegar al día 180:
 
 ---
 
-**Sigue mi progreso y motívate tú también. ¡Esto es posible con disciplina y pasión!**  
-
-
+**Sigue mi progreso y motívate tú también. ¡Esto es posible con disciplina y pasión!**
