@@ -26,14 +26,14 @@ Durante **180 días consecutivos**, estudiaré y practicaré al menos **4 horas 
 
 ## 📅 Progreso
 
-- Día actual: **`día-02`**  
-- Total completado: **`2 / 180`** días  
+- Día actual: **`día-03`**  
+- Total completado: **`3 / 180`** días  
 
 **Progreso visual:**  
-[▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1.1%
+[▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1.7%
 
 
-*(Barra de progreso simple en texto, actualizable manualmente según el día)*
+
 
 Cada día tiene su propia carpeta con:  
 dia-XX/
