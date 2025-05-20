@@ -1,0 +1,25 @@
+body{
+    font-family:Arial, sans-serif;
+    background-color:#2999c5;
+}
+
+form{
+    border: 1px solid #ccc;
+    padding: 20px;
+    background: white;
+    width: 400px;
+}
+
+#home h2{
+    color:green;
+    font-size: 20px;
+}
+
+.form-group{
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    align-items: center;
+    gap : 10px;
+    margin-bottom: 15px;
+}
+
