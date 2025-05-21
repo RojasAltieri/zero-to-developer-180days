@@ -1,0 +1,94 @@
+body{
+    font-family:Arial, sans-serif;
+    background-color:#2999c5;
+}
+
+form{
+    border: 1px solid #ccc;
+    padding: 20px;
+    background: white;
+    width: 400px;
+}
+
+#home h2{
+    color:green;
+    font-size: 20px;
+}
+
+.form-group{
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    align-items: center;
+    gap : 10px;
+    margin-bottom: 15px;
+}
+
+header, footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4b359b;
+    padding: 20px 40px;
+    margin:  0;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+
+
+main{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border : 1px solid #ccc;
+    margin : 100px;
+    padding : 100px;
+}
+
+
+#about{
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+#services{
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+#home{
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+
+#contact{
+    background-color: #fff;
+    padding: 20px;
+    margin: 10 0;
+    border-radius: 5px;
+}
+
+
+
+
+#nav{
+   display: flex; /* los <li> en línea */
+   gap: 20px; /* espacio entre enlaces */
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+
+#nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+

@@ -1,4 +1,4 @@
-# 🗓 Día 4 – 20 de mayo
+# 🗓 Día 4 – 19 de mayo
 
 ## ✅ Progreso del día
 
