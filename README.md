@@ -6,10 +6,10 @@
 
 Durante **180 días consecutivos**, estudiaré y practicaré al menos **4 horas diarias**, con enfoque total en:
 
-* Fundamentos sólidos de desarrollo web (HTML, CSS y JavaScript moderno)
-* React.js y Next.js a nivel profesional
-* Resolución diaria de retos técnicos
-* Construcción de un portfolio real y profesional
+- Fundamentos sólidos de desarrollo web (HTML, CSS y JavaScript moderno)
+- React.js y Next.js a nivel profesional
+- Resolución diaria de retos técnicos
+- Construcción de un portfolio real y profesional
 
 ---
 
@@ -26,11 +26,11 @@ Durante **180 días consecutivos**, estudiaré y practicaré al menos **4 horas 
 
 ## 📅 Progreso
 
-* Día actual: **`día-04`**
-* Total completado: **`4 / 180`** días
+- Día actual: **`día-05`**
+- Total completado: **`5 / 180`** días
 
-**Progreso visual:**
-\[▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.2%
+**Progreso visual:**  
+`[▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.7%`
 
 Cada día tiene su propia carpeta con:
 dia-XX/
